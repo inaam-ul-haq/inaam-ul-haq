@@ -34,7 +34,7 @@
 - LinkedIn: [linkedin.com/in/inaam-ul-haq](#) 
 
 ### ⚡ Fun fact  
-I enjoy building **AI agents** that can talk, solve problems, and assist customers — just like a real human.  
+I enjoy building **AI agents** that can talk, solve problems, and assist customers just like a real human.  
 And yes, I spend more time **coding than scrolling my phone** 😅.  
 
 ---
